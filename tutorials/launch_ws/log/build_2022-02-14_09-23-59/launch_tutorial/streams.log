@@ -1,0 +1,33 @@
+[0.801s] Invoking command in '/home/youri/stage/tutorials/launch_ws/src/launch_tutorial': PYTHONPATH=/home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build install --prefix /home/youri/stage/tutorials/launch_ws/install/launch_tutorial --record /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/install.log --single-version-externally-managed
+[1.056s] running egg_info
+[1.057s] creating ../../build/launch_tutorial/launch_tutorial.egg-info
+[1.057s] writing ../../build/launch_tutorial/launch_tutorial.egg-info/PKG-INFO
+[1.057s] writing dependency_links to ../../build/launch_tutorial/launch_tutorial.egg-info/dependency_links.txt
+[1.058s] writing entry points to ../../build/launch_tutorial/launch_tutorial.egg-info/entry_points.txt
+[1.058s] writing requirements to ../../build/launch_tutorial/launch_tutorial.egg-info/requires.txt
+[1.058s] writing top-level names to ../../build/launch_tutorial/launch_tutorial.egg-info/top_level.txt
+[1.061s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.099s] reading manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.101s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.101s] running build
+[1.101s] running build_py
+[1.101s] creating /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build
+[1.102s] creating /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build/lib
+[1.102s] creating /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build/lib/launch_tutorial
+[1.102s] copying launch_tutorial/__init__.py -> /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build/lib/launch_tutorial
+[1.102s] running install
+[1.103s] running install_lib
+[1.104s] creating /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial
+[1.104s] copying /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build/lib/launch_tutorial/__init__.py -> /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial
+[1.105s] byte-compiling /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial/__init__.py to __init__.cpython-38.pyc
+[1.107s] running install_data
+[1.107s] creating /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/share/ament_index
+[1.107s] creating /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/share/ament_index/resource_index
+[1.108s] creating /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/share/ament_index/resource_index/packages
+[1.108s] copying resource/launch_tutorial -> /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/share/ament_index/resource_index/packages
+[1.108s] copying package.xml -> /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/share/launch_tutorial
+[1.108s] running install_egg_info
+[1.110s] Copying ../../build/launch_tutorial/launch_tutorial.egg-info to /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info
+[1.111s] running install_scripts
+[1.130s] writing list of installed files to '/home/youri/stage/tutorials/launch_ws/build/launch_tutorial/install.log'
+[1.153s] Invoked command in '/home/youri/stage/tutorials/launch_ws/src/launch_tutorial' returned '0': PYTHONPATH=/home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build install --prefix /home/youri/stage/tutorials/launch_ws/install/launch_tutorial --record /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/install.log --single-version-externally-managed

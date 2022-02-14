@@ -1,0 +1,6 @@
+Invoking command in '/home/youri/action_ws/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/youri/action_ws/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/youri/action_ws/install/action_tutorials_interfaces
+Invoked command in '/home/youri/action_ws/build/action_tutorials_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/youri/action_ws/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/youri/action_ws/install/action_tutorials_interfaces
+Invoking command in '/home/youri/action_ws/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/youri/action_ws/build/action_tutorials_interfaces -- -j8 -l8
+Invoked command in '/home/youri/action_ws/build/action_tutorials_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/youri/action_ws/build/action_tutorials_interfaces -- -j8 -l8
+Invoking command in '/home/youri/action_ws/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/youri/action_ws/build/action_tutorials_interfaces
+Invoked command in '/home/youri/action_ws/build/action_tutorials_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/youri/action_ws/build/action_tutorials_interfaces

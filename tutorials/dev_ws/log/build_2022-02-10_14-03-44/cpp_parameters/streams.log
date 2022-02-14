@@ -1,0 +1,48 @@
+[0.021s] Invoking command in '/home/youri/dev_ws/build/cpp_parameters': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --build /home/youri/dev_ws/build/cpp_parameters -- -j8 -l8
+[0.065s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.098s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.373s] -- Found rclcpp: 2.4.0 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.418s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.422s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.590s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.662s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.665s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.877s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.972s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.973s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.974s] -- Configured cppcheck include dirs: 
+[0.974s] -- Configured cppcheck exclude dirs and/or files: 
+[0.975s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.975s] -- Configured cpplint exclude dirs and/or files: 
+[0.975s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.976s] -- Added test 'lint_cmake' to check CMake code style
+[0.977s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.978s] -- Added test 'uncrustify' to check C / C++ code style
+[0.978s] -- Configured uncrustify additional arguments: 
+[0.979s] -- Added test 'xmllint' to check XML markup files
+[0.983s] -- Configuring done
+[0.995s] -- Generating done
+[0.997s] -- Build files have been written to: /home/youri/dev_ws/build/cpp_parameters
+[1.067s] [100%] Built target parameter_node
+[1.085s] Invoked command in '/home/youri/dev_ws/build/cpp_parameters' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --build /home/youri/dev_ws/build/cpp_parameters -- -j8 -l8
+[1.150s] Invoking command in '/home/youri/dev_ws/build/cpp_parameters': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --install /home/youri/dev_ws/build/cpp_parameters
+[1.165s] -- Install configuration: ""
+[1.166s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/lib/cpp_parameters/parameter_node
+[1.166s] -- Installing: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/launch
+[1.167s] -- Installing: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/launch/cpp_parameters_launch.py
+[1.167s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/ament_index/resource_index/package_run_dependencies/cpp_parameters
+[1.167s] -- Installing: /home/youri/dev_ws/install/cpp_parameters/share/ament_index/resource_index/parent_prefix_path/cpp_parameters
+[1.168s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/environment/ament_prefix_path.sh
+[1.168s] -- Installing: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/environment/ament_prefix_path.dsv
+[1.168s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/environment/path.sh
+[1.169s] -- Installing: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/environment/path.dsv
+[1.169s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/local_setup.bash
+[1.169s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/local_setup.sh
+[1.169s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/local_setup.zsh
+[1.170s] -- Installing: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/local_setup.dsv
+[1.170s] -- Installing: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/package.dsv
+[1.170s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/ament_index/resource_index/packages/cpp_parameters
+[1.170s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/cmake/cpp_parametersConfig.cmake
+[1.170s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/cmake/cpp_parametersConfig-version.cmake
+[1.171s] -- Up-to-date: /home/youri/dev_ws/install/cpp_parameters/share/cpp_parameters/package.xml
+[1.173s] Invoked command in '/home/youri/dev_ws/build/cpp_parameters' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --install /home/youri/dev_ws/build/cpp_parameters

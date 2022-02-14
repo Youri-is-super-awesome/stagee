@@ -1,0 +1,17 @@
+/home/youri/dev_ws/install/cpp_srvcli/lib/cpp_srvcli/server
+/home/youri/dev_ws/install/cpp_srvcli/lib/cpp_srvcli/client
+/home/youri/dev_ws/install/cpp_srvcli/share/ament_index/resource_index/package_run_dependencies/cpp_srvcli
+/home/youri/dev_ws/install/cpp_srvcli/share/ament_index/resource_index/parent_prefix_path/cpp_srvcli
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.sh
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.dsv
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/environment/path.sh
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/environment/path.dsv
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.bash
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.sh
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.zsh
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.dsv
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/package.dsv
+/home/youri/dev_ws/install/cpp_srvcli/share/ament_index/resource_index/packages/cpp_srvcli
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig.cmake
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig-version.cmake
+/home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/package.xml

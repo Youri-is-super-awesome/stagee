@@ -1,0 +1,44 @@
+[0.027s] Invoking command in '/home/youri/dev_ws/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --build /home/youri/dev_ws/build/cpp_srvcli -- -j8 -l8
+[0.064s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.092s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.346s] -- Found rclcpp: 2.4.0 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.389s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.393s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.548s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.614s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.617s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.807s] -- Found tutorial_interfaces: 0.0.0 (/home/youri/dev_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake)
+[0.895s] -- Configuring done
+[0.908s] -- Generating done
+[0.910s] -- Build files have been written to: /home/youri/dev_ws/build/cpp_srvcli
+[0.947s] [35m[1mScanning dependencies of target server[0m
+[0.947s] [35m[1mScanning dependencies of target client[0m
+[0.992s] [ 50%] [32mBuilding CXX object CMakeFiles/client.dir/src/add_two_ints_client.cpp.o[0m
+[0.992s] [ 50%] [32mBuilding CXX object CMakeFiles/server.dir/src/add_two_ints_server.cpp.o[0m
+[4.503s] [ 75%] [32m[1mLinking CXX executable server[0m
+[4.704s] [ 75%] Built target server
+[4.838s] [100%] [32m[1mLinking CXX executable client[0m
+[5.009s] [100%] Built target client
+[5.026s] Invoked command in '/home/youri/dev_ws/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --build /home/youri/dev_ws/build/cpp_srvcli -- -j8 -l8
+[5.093s] Invoking command in '/home/youri/dev_ws/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --install /home/youri/dev_ws/build/cpp_srvcli
+[5.106s] -- Install configuration: ""
+[5.107s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/lib/cpp_srvcli/server
+[5.108s] -- Set runtime path of "/home/youri/dev_ws/install/cpp_srvcli/lib/cpp_srvcli/server" to ""
+[5.108s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/lib/cpp_srvcli/client
+[5.110s] -- Set runtime path of "/home/youri/dev_ws/install/cpp_srvcli/lib/cpp_srvcli/client" to ""
+[5.110s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/share/ament_index/resource_index/package_run_dependencies/cpp_srvcli
+[5.111s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/share/ament_index/resource_index/parent_prefix_path/cpp_srvcli
+[5.111s] -- Up-to-date: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.sh
+[5.111s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.dsv
+[5.111s] -- Up-to-date: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/environment/path.sh
+[5.112s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/environment/path.dsv
+[5.112s] -- Up-to-date: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.bash
+[5.112s] -- Up-to-date: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.sh
+[5.112s] -- Up-to-date: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.zsh
+[5.112s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.dsv
+[5.113s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/package.dsv
+[5.113s] -- Up-to-date: /home/youri/dev_ws/install/cpp_srvcli/share/ament_index/resource_index/packages/cpp_srvcli
+[5.113s] -- Up-to-date: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig.cmake
+[5.113s] -- Up-to-date: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig-version.cmake
+[5.113s] -- Installing: /home/youri/dev_ws/install/cpp_srvcli/share/cpp_srvcli/package.xml
+[5.117s] Invoked command in '/home/youri/dev_ws/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --install /home/youri/dev_ws/build/cpp_srvcli

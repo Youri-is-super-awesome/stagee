@@ -1,0 +1,47 @@
+[0.012s] Invoking command in '/home/youri/dev_ws/build/polygon_base': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/python_parameters:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --build /home/youri/dev_ws/build/polygon_base -- -j8 -l8
+[0.034s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.053s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.208s] -- Found pluginlib: 2.5.4 (/opt/ros/foxy/share/pluginlib/cmake)
+[0.240s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.294s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.294s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.295s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/youri/dev_ws/src/polygon_base/include>
+[0.295s] -- Configured cppcheck exclude dirs and/or files: 
+[0.295s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.295s] -- Configured cpplint exclude dirs and/or files: 
+[0.296s] -- Added test 'lint_cmake' to check CMake code style
+[0.296s] -- Added test 'uncrustify' to check C / C++ code style
+[0.296s] -- Configured uncrustify additional arguments: 
+[0.297s] -- Added test 'xmllint' to check XML markup files
+[0.298s] -- Configuring done
+[0.301s] -- Generating done
+[0.302s] -- Build files have been written to: /home/youri/dev_ws/build/polygon_base
+[0.321s] [35m[1mScanning dependencies of target area_node[0m
+[0.332s] [ 50%] [32mBuilding CXX object CMakeFiles/area_node.dir/src/area_node.cpp.o[0m
+[2.783s] [100%] [32m[1mLinking CXX executable area_node[0m
+[2.909s] [100%] Built target area_node
+[2.918s] Invoked command in '/home/youri/dev_ws/build/polygon_base' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/python_parameters:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --build /home/youri/dev_ws/build/polygon_base -- -j8 -l8
+[2.947s] Invoking command in '/home/youri/dev_ws/build/polygon_base': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/python_parameters:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --install /home/youri/dev_ws/build/polygon_base
+[2.954s] -- Install configuration: ""
+[2.954s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/include
+[2.955s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/include/polygon_base
+[2.955s] -- Installing: /home/youri/dev_ws/install/polygon_base/include/polygon_base/regular_polygon.hpp
+[2.955s] -- Installing: /home/youri/dev_ws/install/polygon_base/lib/polygon_base/area_node
+[2.956s] -- Set runtime path of "/home/youri/dev_ws/install/polygon_base/lib/polygon_base/area_node" to ""
+[2.956s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/ament_index/resource_index/package_run_dependencies/polygon_base
+[2.956s] -- Installing: /home/youri/dev_ws/install/polygon_base/share/ament_index/resource_index/parent_prefix_path/polygon_base
+[2.956s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/environment/ament_prefix_path.sh
+[2.956s] -- Installing: /home/youri/dev_ws/install/polygon_base/share/polygon_base/environment/ament_prefix_path.dsv
+[2.956s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/environment/path.sh
+[2.956s] -- Installing: /home/youri/dev_ws/install/polygon_base/share/polygon_base/environment/path.dsv
+[2.956s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/local_setup.bash
+[2.956s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/local_setup.sh
+[2.957s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/local_setup.zsh
+[2.957s] -- Installing: /home/youri/dev_ws/install/polygon_base/share/polygon_base/local_setup.dsv
+[2.957s] -- Installing: /home/youri/dev_ws/install/polygon_base/share/polygon_base/package.dsv
+[2.957s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/ament_index/resource_index/packages/polygon_base
+[2.957s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.957s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/cmake/polygon_baseConfig.cmake
+[2.957s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/cmake/polygon_baseConfig-version.cmake
+[2.957s] -- Up-to-date: /home/youri/dev_ws/install/polygon_base/share/polygon_base/package.xml
+[2.959s] Invoked command in '/home/youri/dev_ws/build/polygon_base' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youri/dev_ws/install/python_parameters:/home/youri/dev_ws/install/py_srvcli:/home/youri/dev_ws/install/py_pubsub:/opt/ros/foxy /usr/bin/cmake --install /home/youri/dev_ws/build/polygon_base

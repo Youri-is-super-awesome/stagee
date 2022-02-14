@@ -1,0 +1,33 @@
+[0.519s] Invoking command in '/home/youri/stage/tutorials/launch_ws/src/my_package': PYTHONPATH=/home/youri/stage/tutorials/launch_ws/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/youri/stage/tutorials/launch_ws/build/my_package/build install --prefix /home/youri/stage/tutorials/launch_ws/install/my_package --record /home/youri/stage/tutorials/launch_ws/build/my_package/install.log --single-version-externally-managed
+[0.693s] running egg_info
+[0.693s] creating ../../build/my_package/my_package.egg-info
+[0.693s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[0.693s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[0.693s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[0.693s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[0.694s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[0.694s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.721s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.721s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.721s] running build
+[0.721s] running build_py
+[0.722s] creating /home/youri/stage/tutorials/launch_ws/build/my_package/build
+[0.722s] creating /home/youri/stage/tutorials/launch_ws/build/my_package/build/lib
+[0.722s] creating /home/youri/stage/tutorials/launch_ws/build/my_package/build/lib/my_package
+[0.722s] copying my_package/__init__.py -> /home/youri/stage/tutorials/launch_ws/build/my_package/build/lib/my_package
+[0.722s] running install
+[0.722s] running install_lib
+[0.723s] creating /home/youri/stage/tutorials/launch_ws/install/my_package/lib/python3.8/site-packages/my_package
+[0.723s] copying /home/youri/stage/tutorials/launch_ws/build/my_package/build/lib/my_package/__init__.py -> /home/youri/stage/tutorials/launch_ws/install/my_package/lib/python3.8/site-packages/my_package
+[0.723s] byte-compiling /home/youri/stage/tutorials/launch_ws/install/my_package/lib/python3.8/site-packages/my_package/__init__.py to __init__.cpython-38.pyc
+[0.724s] running install_data
+[0.724s] creating /home/youri/stage/tutorials/launch_ws/install/my_package/share/ament_index
+[0.725s] creating /home/youri/stage/tutorials/launch_ws/install/my_package/share/ament_index/resource_index
+[0.725s] creating /home/youri/stage/tutorials/launch_ws/install/my_package/share/ament_index/resource_index/packages
+[0.725s] copying resource/my_package -> /home/youri/stage/tutorials/launch_ws/install/my_package/share/ament_index/resource_index/packages
+[0.725s] copying package.xml -> /home/youri/stage/tutorials/launch_ws/install/my_package/share/my_package
+[0.725s] running install_egg_info
+[0.726s] Copying ../../build/my_package/my_package.egg-info to /home/youri/stage/tutorials/launch_ws/install/my_package/lib/python3.8/site-packages/my_package-0.0.0-py3.8.egg-info
+[0.727s] running install_scripts
+[0.740s] writing list of installed files to '/home/youri/stage/tutorials/launch_ws/build/my_package/install.log'
+[0.756s] Invoked command in '/home/youri/stage/tutorials/launch_ws/src/my_package' returned '0': PYTHONPATH=/home/youri/stage/tutorials/launch_ws/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/youri/stage/tutorials/launch_ws/build/my_package/build install --prefix /home/youri/stage/tutorials/launch_ws/install/my_package --record /home/youri/stage/tutorials/launch_ws/build/my_package/install.log --single-version-externally-managed

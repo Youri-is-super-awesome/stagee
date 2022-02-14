@@ -1,0 +1,2 @@
+Invoking command in '/home/youri/stage/tutorials/launch_ws/build/my_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/youri/stage/tutorials/launch_ws/src/my_pkg -DCMAKE_INSTALL_PREFIX=/home/youri/stage/tutorials/launch_ws/install/my_pkg
+Invoked command in '/home/youri/stage/tutorials/launch_ws/build/my_pkg' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/youri/stage/tutorials/launch_ws/src/my_pkg -DCMAKE_INSTALL_PREFIX=/home/youri/stage/tutorials/launch_ws/install/my_pkg

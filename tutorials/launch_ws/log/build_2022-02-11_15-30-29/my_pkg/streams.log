@@ -1,0 +1,23 @@
+[0.192s] Invoking command in '/home/youri/stage/tutorials/launch_ws/build/my_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/youri/stage/tutorials/launch_ws/src/my_pkg -DCMAKE_INSTALL_PREFIX=/home/youri/stage/tutorials/launch_ws/install/my_pkg
+[0.203s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.220s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.380s] CMake Error at CMakeLists.txt:20 (find_package):
+[0.380s]   By not providing "Find[deps].cmake" in CMAKE_MODULE_PATH this project has
+[0.380s]   asked CMake to find a package configuration file provided by "[deps]", but
+[0.380s]   CMake did not find one.
+[0.380s] 
+[0.380s]   Could not find a package configuration file provided by "[deps]" with any
+[0.380s]   of the following names:
+[0.381s] 
+[0.381s]     [deps]Config.cmake
+[0.381s]     [deps]-config.cmake
+[0.381s] 
+[0.381s]   Add the installation prefix of "[deps]" to CMAKE_PREFIX_PATH or set
+[0.381s]   "[deps]_DIR" to a directory containing one of the above files.  If "[deps]"
+[0.381s]   provides a separate development package or SDK, be sure it has been
+[0.381s]   installed.
+[0.381s] 
+[0.381s] 
+[0.381s] -- Configuring incomplete, errors occurred!
+[0.381s] See also "/home/youri/stage/tutorials/launch_ws/build/my_pkg/CMakeFiles/CMakeOutput.log".
+[0.382s] Invoked command in '/home/youri/stage/tutorials/launch_ws/build/my_pkg' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/youri/stage/tutorials/launch_ws/src/my_pkg -DCMAKE_INSTALL_PREFIX=/home/youri/stage/tutorials/launch_ws/install/my_pkg

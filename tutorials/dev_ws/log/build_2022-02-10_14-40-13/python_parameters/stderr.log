@@ -1,0 +1,5 @@
+  File "/home/youri/dev_ws/install/python_parameters/lib/python3.8/site-packages/python_parameters/python_parameters_node.py", line 36
+    main()ti
+          ^
+SyntaxError: invalid syntax
+

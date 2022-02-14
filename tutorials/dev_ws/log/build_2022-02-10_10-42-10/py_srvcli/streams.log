@@ -1,0 +1,41 @@
+[0.974s] Invoking command in '/home/youri/dev_ws/src/py_srvcli': PYTHONPATH=/home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/youri/dev_ws/build/py_srvcli/build install --prefix /home/youri/dev_ws/install/py_srvcli --record /home/youri/dev_ws/build/py_srvcli/install.log --single-version-externally-managed
+[1.251s] running egg_info
+[1.252s] creating ../../build/py_srvcli/py_srvcli.egg-info
+[1.252s] writing ../../build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[1.253s] writing dependency_links to ../../build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[1.253s] writing entry points to ../../build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[1.253s] writing requirements to ../../build/py_srvcli/py_srvcli.egg-info/requires.txt
+[1.253s] writing top-level names to ../../build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[1.257s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.297s] reading manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.298s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.298s] running build
+[1.299s] running build_py
+[1.299s] creating /home/youri/dev_ws/build/py_srvcli/build
+[1.299s] creating /home/youri/dev_ws/build/py_srvcli/build/lib
+[1.299s] creating /home/youri/dev_ws/build/py_srvcli/build/lib/py_srvcli
+[1.299s] copying py_srvcli/__init__.py -> /home/youri/dev_ws/build/py_srvcli/build/lib/py_srvcli
+[1.299s] copying py_srvcli/client_member_function.py -> /home/youri/dev_ws/build/py_srvcli/build/lib/py_srvcli
+[1.300s] copying py_srvcli/service_member_function.py -> /home/youri/dev_ws/build/py_srvcli/build/lib/py_srvcli
+[1.300s] running install
+[1.300s] running install_lib
+[1.302s] creating /home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[1.302s] copying /home/youri/dev_ws/build/py_srvcli/build/lib/py_srvcli/__init__.py -> /home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[1.302s] copying /home/youri/dev_ws/build/py_srvcli/build/lib/py_srvcli/client_member_function.py -> /home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[1.303s] copying /home/youri/dev_ws/build/py_srvcli/build/lib/py_srvcli/service_member_function.py -> /home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[1.303s] byte-compiling /home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/__init__.py to __init__.cpython-38.pyc
+[1.305s] byte-compiling /home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/client_member_function.py to client_member_function.cpython-38.pyc
+[1.305s] byte-compiling /home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/service_member_function.py to service_member_function.cpython-38.pyc
+[1.306s] running install_data
+[1.307s] creating /home/youri/dev_ws/install/py_srvcli/share/ament_index
+[1.307s] creating /home/youri/dev_ws/install/py_srvcli/share/ament_index/resource_index
+[1.307s] creating /home/youri/dev_ws/install/py_srvcli/share/ament_index/resource_index/packages
+[1.307s] copying resource/py_srvcli -> /home/youri/dev_ws/install/py_srvcli/share/ament_index/resource_index/packages
+[1.308s] copying package.xml -> /home/youri/dev_ws/install/py_srvcli/share/py_srvcli
+[1.308s] running install_egg_info
+[1.309s] Copying ../../build/py_srvcli/py_srvcli.egg-info to /home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli-0.0.0-py3.8.egg-info
+[1.311s] running install_scripts
+[1.332s] Installing client script to /home/youri/dev_ws/install/py_srvcli/lib/py_srvcli
+[1.332s] Installing service script to /home/youri/dev_ws/install/py_srvcli/lib/py_srvcli
+[1.332s] writing list of installed files to '/home/youri/dev_ws/build/py_srvcli/install.log'
+[1.355s] Invoked command in '/home/youri/dev_ws/src/py_srvcli' returned '0': PYTHONPATH=/home/youri/dev_ws/install/py_srvcli/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/youri/dev_ws/build/py_srvcli/build install --prefix /home/youri/dev_ws/install/py_srvcli --record /home/youri/dev_ws/build/py_srvcli/install.log --single-version-externally-managed

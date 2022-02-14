@@ -1,0 +1,47 @@
+[0.017s] Invoking command in '/home/youri/dev_ws/build/more_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/youri/dev_ws/src/more_interfaces -DCMAKE_INSTALL_PREFIX=/home/youri/dev_ws/install/more_interfaces
+[0.111s] -- The C compiler identification is GNU 9.3.0
+[0.194s] -- The CXX compiler identification is GNU 9.3.0
+[0.200s] -- Check for working C compiler: /usr/bin/cc
+[0.293s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.295s] -- Detecting C compiler ABI info
+[0.429s] -- Detecting C compiler ABI info - done
+[0.450s] -- Detecting C compile features
+[0.450s] -- Detecting C compile features - done
+[0.456s] -- Check for working CXX compiler: /usr/bin/c++
+[0.607s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.609s] -- Detecting CXX compiler ABI info
+[0.747s] -- Detecting CXX compiler ABI info - done
+[0.766s] -- Detecting CXX compile features
+[0.767s] -- Detecting CXX compile features - done
+[0.769s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.802s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.802s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.075s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[1.079s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.087s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.214s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.255s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.364s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.401s] -- Found rclcpp: 2.4.0 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.480s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.481s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.482s] -- Looking for pthread.h
+[1.591s] -- Looking for pthread.h - found
+[1.592s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.708s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.708s] -- Looking for pthread_create in pthreads
+[1.802s] -- Looking for pthread_create in pthreads - not found
+[1.803s] -- Looking for pthread_create in pthread
+[1.909s] -- Looking for pthread_create in pthread - found
+[1.910s] -- Found Threads: TRUE  
+[2.144s] CMake Error at /opt/ros/foxy/share/rosidl_cmake/cmake/rosidl_target_interfaces.cmake:40 (message):
+[2.145s]   rosidl_target_interfaces() the second argument 'more_interfaces' must be a
+[2.145s]   valid target name
+[2.145s] Call Stack (most recent call first):
+[2.145s]   CMakeLists.txt:34 (rosidl_target_interfaces)
+[2.145s] 
+[2.145s] 
+[2.147s] -- Configuring incomplete, errors occurred!
+[2.147s] See also "/home/youri/dev_ws/build/more_interfaces/CMakeFiles/CMakeOutput.log".
+[2.147s] See also "/home/youri/dev_ws/build/more_interfaces/CMakeFiles/CMakeError.log".
+[2.156s] Invoked command in '/home/youri/dev_ws/build/more_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/youri/dev_ws/src/more_interfaces -DCMAKE_INSTALL_PREFIX=/home/youri/dev_ws/install/more_interfaces

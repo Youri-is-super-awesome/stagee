@@ -1,0 +1,23 @@
+[0.561s] Invoking command in '/home/youri/stage/tutorials/launch_ws/src/launch_tutorial': PYTHONPATH=/home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build install --prefix /home/youri/stage/tutorials/launch_ws/install/launch_tutorial --record /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/install.log --single-version-externally-managed
+[0.743s] running egg_info
+[0.743s] writing ../../build/launch_tutorial/launch_tutorial.egg-info/PKG-INFO
+[0.743s] writing dependency_links to ../../build/launch_tutorial/launch_tutorial.egg-info/dependency_links.txt
+[0.744s] writing entry points to ../../build/launch_tutorial/launch_tutorial.egg-info/entry_points.txt
+[0.744s] writing requirements to ../../build/launch_tutorial/launch_tutorial.egg-info/requires.txt
+[0.744s] writing top-level names to ../../build/launch_tutorial/launch_tutorial.egg-info/top_level.txt
+[0.772s] reading manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[0.773s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[0.773s] running build
+[0.773s] running build_py
+[0.773s] running install
+[0.774s] running install_lib
+[0.775s] running install_data
+[0.775s] creating /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/share/launch_tutorial/launch
+[0.775s] copying launch/example_main.launch.py -> /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/share/launch_tutorial/launch
+[0.775s] copying launch/example_substitutions.launch.py -> /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/share/launch_tutorial/launch
+[0.775s] running install_egg_info
+[0.776s] removing '/home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info' (and everything under it)
+[0.777s] Copying ../../build/launch_tutorial/launch_tutorial.egg-info to /home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info
+[0.777s] running install_scripts
+[0.791s] writing list of installed files to '/home/youri/stage/tutorials/launch_ws/build/launch_tutorial/install.log'
+[0.811s] Invoked command in '/home/youri/stage/tutorials/launch_ws/src/launch_tutorial' returned '0': PYTHONPATH=/home/youri/stage/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/build install --prefix /home/youri/stage/tutorials/launch_ws/install/launch_tutorial --record /home/youri/stage/tutorials/launch_ws/build/launch_tutorial/install.log --single-version-externally-managed

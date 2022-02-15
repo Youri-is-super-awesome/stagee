@@ -11,6 +11,9 @@ setup.py
 launch/example_event_handlers.launch.py
 launch/example_main.launch.py
 launch/example_substitutions.launch.py
+launch/launch_turtlesim.launch.py
+launch/turtlesim_world_1.launch.py
+launch/turtlesim_world_2.launch.py
 launch_tutorial/__init__.py
 resource/launch_tutorial
 test/test_copyright.py

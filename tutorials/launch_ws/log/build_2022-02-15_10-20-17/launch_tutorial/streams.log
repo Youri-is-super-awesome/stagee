@@ -1,0 +1,23 @@
+[1.128s] Invoking command in '/home/youri/stagee/tutorials/launch_ws/src/launch_tutorial': PYTHONPATH=/home/youri/stagee/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/youri/stagee/tutorials/launch_ws/build/launch_tutorial/build install --prefix /home/youri/stagee/tutorials/launch_ws/install/launch_tutorial --record /home/youri/stagee/tutorials/launch_ws/build/launch_tutorial/install.log --single-version-externally-managed
+[1.487s] running egg_info
+[1.488s] writing ../../build/launch_tutorial/launch_tutorial.egg-info/PKG-INFO
+[1.493s] writing dependency_links to ../../build/launch_tutorial/launch_tutorial.egg-info/dependency_links.txt
+[1.493s] writing entry points to ../../build/launch_tutorial/launch_tutorial.egg-info/entry_points.txt
+[1.493s] writing requirements to ../../build/launch_tutorial/launch_tutorial.egg-info/requires.txt
+[1.493s] writing top-level names to ../../build/launch_tutorial/launch_tutorial.egg-info/top_level.txt
+[1.555s] reading manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.557s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.557s] running build
+[1.558s] running build_py
+[1.558s] running install
+[1.559s] running install_lib
+[1.561s] running install_data
+[1.562s] copying launch/launch_turtlesim.launch.py -> /home/youri/stagee/tutorials/launch_ws/install/launch_tutorial/share/launch_tutorial/launch
+[1.563s] copying launch/turtlesim_world_1.launch.py -> /home/youri/stagee/tutorials/launch_ws/install/launch_tutorial/share/launch_tutorial/launch
+[1.563s] copying launch/turtlesim_world_2.launch.py -> /home/youri/stagee/tutorials/launch_ws/install/launch_tutorial/share/launch_tutorial/launch
+[1.563s] running install_egg_info
+[1.566s] removing '/home/youri/stagee/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info' (and everything under it)
+[1.567s] Copying ../../build/launch_tutorial/launch_tutorial.egg-info to /home/youri/stagee/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info
+[1.568s] running install_scripts
+[1.595s] writing list of installed files to '/home/youri/stagee/tutorials/launch_ws/build/launch_tutorial/install.log'
+[1.624s] Invoked command in '/home/youri/stagee/tutorials/launch_ws/src/launch_tutorial' returned '0': PYTHONPATH=/home/youri/stagee/tutorials/launch_ws/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/youri/stagee/tutorials/launch_ws/build/launch_tutorial/build install --prefix /home/youri/stagee/tutorials/launch_ws/install/launch_tutorial --record /home/youri/stagee/tutorials/launch_ws/build/launch_tutorial/install.log --single-version-externally-managed
